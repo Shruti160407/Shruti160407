@@ -1,4 +1,10 @@
-## Hi there 👋
+##👋, I am Shruti Kumari
+
+**Aspiring Software Developer | Data Science Enthusiast | MERN Stack Learner**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shruti-kumari-346603283/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Shruti160407)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:shrutichourasia1607@gmail.com)
 
 <!--
 **Shruti160407/Shruti160407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
