@@ -1,6 +1,15 @@
 ##👋, I am Shruti Kumari
 
-**Aspiring Software Developer | Data Science Enthusiast | MERN Stack Learner**
+<h3 style="
+  font-size: 22px;
+  font-weight: bold;
+  background: linear-gradient(45deg, #ff0077, #00d4ff);
+  -webkit-background-clip: text;
+  color: transparent;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+">
+  Aspiring Software Developer | Data Science Enthusiast | MERN Stack Learner
+</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shruti-kumari-346603283/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Shruti160407)
