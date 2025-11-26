@@ -1,5 +1,4 @@
-
-#👋 Hi, I am Shruti Kumari
+👋 Hi, I am Shruti Kumari
 
 **Aspiring Web Developer | Data Science Enthusiast | MERN Stack Learner**
  
