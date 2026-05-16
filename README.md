@@ -44,38 +44,6 @@ Currently looking for **internship and entry-level SWE/ML roles**.
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🦠 Waterborne Disease Prediction</h3>
-      <p>ML model predicting disease risk from environmental data. Built for early public health intervention.</p>
-      <p><code>Python</code> <code>scikit-learn</code> <code>pandas</code></p>
-      <a href="YOUR_REPO_LINK">View Repo →</a>
-    </td>
-    <td width="50%">
-      <h3>📊 Social Media Analytics Dashboard</h3>
-      <p>Full-stack dashboard with real-time engagement metrics, trend graphs, and exportable reports.</p>
-      <p><code>React</code> <code>Node.js</code> <code>MongoDB</code></p>
-      <a href="YOUR_REPO_LINK">View Repo →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🗳 Realtime Polling App</h3>
-      <p>Live polling with WebSocket-powered instant vote updates and multi-poll support.</p>
-      <p><code>Socket.io</code> <code>React</code> <code>Node.js</code></p>
-      <a href="YOUR_REPO_LINK">View Repo →</a>
-    </td>
-    <td width="50%">
-      <h3>💸 Expense Tracker (MERN)</h3>
-      <p>Personal finance tracker with auth, category breakdowns, and monthly summaries.</p>
-      <p><code>MongoDB</code> <code>Express</code> <code>React</code> <code>Node.js</code></p>
-      <a href="YOUR_REPO_LINK">View Repo →</a>
-    </td>
-  </tr>
-</table>
 
 ## 🚀 Featured Projects
 
