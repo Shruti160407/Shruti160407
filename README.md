@@ -83,7 +83,7 @@ Currently looking for **internship and entry-level SWE/ML roles**.
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Shruti160407&label=Profile%20Views&color=6&icon=5&pretty=true" />
+  <img src="https://komarev.com/ghpvc/?username=Shruti160407&label=Profile+Views&color=6C63FF&style=for-the-badge" />
 </p>
 
 <p align="center">
