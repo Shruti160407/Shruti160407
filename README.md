@@ -2,13 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shruti+Kumari+%F0%9F%91%8B;Full-Stack+Developer;Data+Science+%26+ML+Enthusiast;Open+to+Internships+%26+SWE+Roles" alt="Typing SVG" />
 </p>
 
-# Hi, I'm Shruti Kumari 👋
-
-Final-year B.Tech CSE student specializing in Data Science, with hands-on experience
-building full-stack web applications and ML-powered systems. I enjoy working at the
-intersection of data and software — turning messy problems into clean, working products.
-
-Currently looking for **internship and entry-level SWE/ML roles**.
 
 ---
 
