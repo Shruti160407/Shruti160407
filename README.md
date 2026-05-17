@@ -44,14 +44,14 @@ Currently looking for **internship and entry-level SWE/ML roles**.
       <p>ML model that predicts waterborne disease risk based on environmental and
       demographic inputs. Built to assist early public health intervention.</p>
       <p><code>Python</code> <code>scikit-learn</code> <code>pandas</code></p>
-      <a href="YOUR_REPO_LINK">View Repo →</a>
+      <a href="https://github.com/Shruti160407/waterborne_disease_prediction">View Repo →</a>
     </td>
     <td width="50%">
-      <h3>📊 Social Media Analytics Dashboard</h3>
+      <h3>📊 Social Media Application</h3>
       <p>Full-stack dashboard that aggregates and visualizes social media engagement
       metrics in real time. Includes filtering, trend graphs, and exportable reports.</p>
       <p><code>React.js</code> <code>Node.js</code> <code>MongoDB</code> <code>Chart.js</code></p>
-      <a href="YOUR_REPO_LINK">View Repo →</a>
+      <a href="https://github.com/Shruti160407/LinkUp">View Repo →</a>
     </td>
   </tr>
   <tr>
@@ -60,14 +60,14 @@ Currently looking for **internship and entry-level SWE/ML roles**.
       <p>Live polling app with instant vote updates using WebSockets. Supports
       multiple concurrent polls and result visualization.</p>
       <p><code>React.js</code> <code>Node.js</code> <code>Socket.io</code> <code>MongoDB</code></p>
-      <a href="YOUR_REPO_LINK">View Repo →</a>
+      <a href="https://github.com/Shruti160407/realtime-poll">View Repo →</a>
     </td>
     <td width="50%">
       <h3>💸 Expense Tracker (MERN)</h3>
       <p>Personal finance tracker with category-wise breakdowns, monthly summaries,
       and auth-protected user accounts.</p>
       <p><code>MongoDB</code> <code>Express.js</code> <code>React.js</code> <code>Node.js</code></p>
-      <a href="YOUR_REPO_LINK">View Repo →</a>
+      <a href="https://github.com/Shruti160407/Expense-management">View Repo →</a>
     </td>
   </tr>
 </table>
@@ -87,7 +87,7 @@ Currently looking for **internship and entry-level SWE/ML roles**.
 </p>
 
 <p align="center">
-  <a href="YOUR_RESUME_LINK">
+  <a href="https://drive.google.com/file/d/1lo9fTqyWkw8f-8FNLA0jVPquU0hzvA-w/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-View%20My%20Resume-6C63FF?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
@@ -96,7 +96,7 @@ Currently looking for **internship and entry-level SWE/ML roles**.
   <a href="https://www.linkedin.com/in/shruti-kumari-346603283/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:shrutichourasia1607@gmail.com">
+  <a href="mailto:shrutichourasia1616@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Shruti160407">
