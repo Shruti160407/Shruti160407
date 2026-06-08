@@ -10,18 +10,6 @@ intersection of data and software — turning messy problems into clean, working
 
 Currently looking for **internship and entry-level SWE/ML roles**.
 
----
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shruti160407&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shruti160407&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ## 🛠 Tech Stack
 
